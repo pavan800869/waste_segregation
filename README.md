@@ -26,5 +26,5 @@ This project uses an **ESP32-CAM** with an **Edge Impulse object detection model
 ## 🔧 Setup & Installation
 1. **Clone this repository**  
    ```sh
-   git clone https://github.com/yourusername/esp32-cam-waste-segregation.git
+   git clone https://github.com/pavan800869/waste_segregation.git
    cd esp32-cam-waste-segregation
