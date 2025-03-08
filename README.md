@@ -27,4 +27,4 @@ This project uses an **ESP32-CAM** with an **Edge Impulse object detection model
 1. **Clone this repository**  
    ```sh
    git clone https://github.com/pavan800869/waste_segregation.git
-   cd waste_egregation
+   cd waste_segregation
